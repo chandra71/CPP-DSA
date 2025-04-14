@@ -32,13 +32,6 @@ Each lecture/folder contains:
 - 📝 Dedicated `README.md` file explaining the topic  
 - 🚀 Real code examples for hands-on practice  
 
-| Folder | Description |
-|--------|-------------|
-| [Lecture-01 (Hello World, Data Types, Relational Operators)](./Lecture-01%28Hello%20world%2CData%20types%2CRelational%20operators%29) | Basics of C++ syntax and foundational concepts |
-| [Lecture-02 (If-Else Statements)](./Lecture-02%28If-else%20statements%29) | Control flow using `if`, `else`, and `else if` |
-| [Lecture-03 (Loops)](./Lecture-03%28Loops%29) | Iteration using `for`, `while`, and `do-while` loops |
-| ...more coming soon |
-
 ---
 
 ## 🚧 In Progress
