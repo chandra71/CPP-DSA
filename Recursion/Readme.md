@@ -13,4 +13,8 @@ Great for beginners and those revising DSA basics!
 - ✅ Power of a number (x^n)
 - ✅ Fibonacci numbers
 - ✅ Check if array is sorted
-- ✅ First
+- ✅Nto 1 by Backtracking
+- ✅Palindrome By recursion
+- ✅Sum of N (functional recursion)
+- ✅Sum of N (parameterised way)
+- ✅Array Reversal
