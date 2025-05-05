@@ -1,6 +1,6 @@
 # CPP-DSA
 
-# 📘 CPP-DSA Series by Chandra Sekhar
+# 📘 CPP-DSA Series
 
 Welcome to the **CPP-DSA** repository! This is a structured and beginner-friendly collection of C++ programs and notes focused on mastering **Data Structures and Algorithms** using C++.
 
