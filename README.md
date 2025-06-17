@@ -20,7 +20,7 @@ Whether you're preparing for coding interviews, college exams, or building stron
 ✔️ Linked Lists, Stacks, Queues  
 ✔️ Trees, Graphs  
 ✔️ STL (Standard Template Library)  
-✔️ Problem Solving Techniques
+✔️ Problem Solving Techniques 
 
 ---
 
