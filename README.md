@@ -36,7 +36,7 @@ Each lecture/folder contains:
 
 ## 🚧 In Progress
 
-This is a live and growing project! I’m updating this repo regularly with:
+This is a live and growing project! I’m updating this repo regularly with: 
 
 - New lectures  
 - C++ DSA patterns  
