@@ -11,7 +11,7 @@ Whether you're preparing for coding interviews, college exams, or building stron
 ## 📚 What You’ll Learn
 
 ✔️ C++ Basics 
-✔️ Conditional Statements (`if`, `else`)  
+✔️ Conditional Statements (`if`, `else`)   
 ✔️ Loops (`for`, `while`, `do-while`)  
 ✔️ Functions  
 ✔️ Arrays & Strings  
